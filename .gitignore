@@ -1,0 +1,7 @@
+**/input/
+*.bin
+*.log
+inference.py
+**/archive/
+**/__pycache__/
+*.vscode/

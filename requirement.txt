@@ -1,0 +1,5 @@
+albumentations
+opencv-python
+pytorch
+timm
+scikit-learn
